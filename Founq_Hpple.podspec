@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "hpple"
+  s.name         = "Founq_hpple"
   s.version      = "0.0.1"
   s.summary      = "A nice Objective-C wrapper on the XPathQuery library for parsing HTML."
   s.homepage     = "https://github.com/ysghome/Founq_hpple"
